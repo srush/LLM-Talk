@@ -1,7 +1,6 @@
 # LLMs in Five Formulas
 
-Talk: https://www.youtube.com/watch?v=KCXDr-UOb9A&t=671s
-Slides: https://github.com/srush/LLM-Talk/blob/main/Tutorial.pdf
+[Talk](https://www.youtube.com/watch?v=KCXDr-UOb9A&t=671s) | [Slides](https://github.com/srush/LLM-Talk/blob/main/Tutorial.pdf)
 
 ## Perplexity
 ![image](https://github.com/srush/LLM-Talk/assets/35882/c6611109-4f7e-4730-9e3e-230c68a1ba71)
